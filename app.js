@@ -3,4 +3,8 @@
  //const isProgrammer = true
 
 const resultElement = document.getElementById('result')
-console.log (resultElement)
+const input1 = document.getElementById('input')
+const resultElement = document.getElementById('result')
+const resultElement = document.getElementById('result')
+const resultElement = document.getElementById('result')
+const resultElement = document.getElementById('result')
