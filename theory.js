@@ -5,4 +5,6 @@ let c = 17
 
 c = c + a 
 
+
+
 console.log(c)

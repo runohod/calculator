@@ -15,7 +15,7 @@ plusBtn.onclick = function () {
     action = '+'
 }
 
-minusBtnBtn.onclick = function () {
+minusBtn.onclick = function () {
     action = '-'
 }
 
